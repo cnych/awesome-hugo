@@ -1,5 +1,5 @@
 # awesome-hugo
-A curated list for awesome hugo sources 🎉🎉🎉
+A curated list for awesome hugo resources 🎉🎉🎉
 
 ## Showcase
 * [阳明的博客](https://blog.qikqiak.com)
@@ -31,6 +31,7 @@ A curated list for awesome hugo sources 🎉🎉🎉
 * [通过webhook将Hugo自动部署至GitHub Pages和GitCafe Pages](http://www.gohugo.org/post/coderzh-automated-deploy-hugo/)
 
 ## Tools
+* [huggle](https://github.com/ktmud/huggle) - hugo + gulp
 * [Gitment](https://github.com/imsun/gitment) - comments plugin
 * [Hugo-algolia](https://www.npmjs.com/package/hugo-algolia) - algolia search index json builder
 * [Prism](http://prism.com/) - code highlight plugin
