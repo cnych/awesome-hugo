@@ -2,7 +2,7 @@
 A curated list for awesome hugo resources 🎉🎉🎉
 
 ## Contents
-* [Showcase]((#showcase)
+* [Showcase](#showcase)
 * [Docs](#docs)
 * [Tools](#tools)
 
