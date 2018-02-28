@@ -1,7 +1,12 @@
 # awesome-hugo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list for awesome hugo resources 🎉🎉🎉
 
-## Showcase
+## Contents
+* [Showcase]((#showcase)
+* [Docs](#docs)
+* [Tools](#tools)
+
+## Showcase<a id="shwocase"></a>
 * [阳明的博客](https://blog.qikqiak.com)
 * [Jimmy Song](https://jimmysong.io/)
 * [Delft Stack Tutorial](https://www.delftstack.com)
@@ -22,7 +27,7 @@ A curated list for awesome hugo resources 🎉🎉🎉
 * [Hugo Showcase Template](https://gohugo.io/)
 ...
 
-## Docs
+## Docs<a id="docs"></a>
 * [Hugo Docs](https://gohugo.io/documentation/)
 * [hugo-handbook](https://jimmysong.io/hugo-handbook/)
 * [Hugo中文文档](http://www.gohugo.org/)
@@ -30,7 +35,7 @@ A curated list for awesome hugo resources 🎉🎉🎉
 * [使用Hugo Import一键迁移Jekyll](http://www.gohugo.org/post/coderzh-hugo-import-from-jekyll/)
 * [通过webhook将Hugo自动部署至GitHub Pages和GitCafe Pages](http://www.gohugo.org/post/coderzh-automated-deploy-hugo/)
 
-## Tools
+## Tools<a id="tools"></a>
 * [huggle](https://github.com/ktmud/huggle) - hugo + gulp
 * [Gitment](https://github.com/imsun/gitment) - comments plugin
 * [Hugo-algolia](https://www.npmjs.com/package/hugo-algolia) - algolia search index json builder
